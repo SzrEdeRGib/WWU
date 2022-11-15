@@ -1,0 +1,11 @@
+#--------------------------------------
+# Changelog
+#--------------------------------------
+
+Added history changes:
+-Wars --> Nexus War
+-Rulers --> Stonemaul
+-Diplomacy --> Ebon Blade Diplomacy, Human Diplomacy
+
+Added National Ideas for:
+-Sporeling
